@@ -1,4 +1,4 @@
-# Adatvédelmi Irányelvek – InfoValidator GPT
+# Privacy Policy / Adatvédelmi Irányelvek – InfoValidator GPT
 
 Ez az oldal tájékoztatást nyújt az InfoValidator GPT (a továbbiakban: „a GPT”) működése során felmerülő adatkezelési gyakorlatokról.
 
